@@ -1,6 +1,6 @@
 
 
-#Simple weather app whit react and Opena weahter Maps
+#Simple weather app with react and Opena weahter Maps
 
 
 # Getting Started with Create React App
